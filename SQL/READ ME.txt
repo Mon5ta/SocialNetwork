@@ -1,0 +1,9 @@
+
+
+-----STEP 1-------
+
+Execute the sql string (user.sql) in mysql to create a user for the connection of the database.
+
+-----STEP 2-------
+
+Execute the sql string (sonedb.sql) in mysql to create the database.
